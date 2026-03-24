@@ -58,8 +58,11 @@
 ## 📂 Outros Projetos
 
 ### 🔹 [Projetos de LIP — 1º Período (2025)](https://github.com/MicheleFranciscaDeAlmeida/Projetos-de-LIP-1-periodo-2025)
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
 Projetos realizados durante o 1º semestre de 2025, na disciplina de Laboratório de Iniciação a Programação.
 
 1- Primeiro Projeto de LIP - Semaforo: Desenvolvimento de um sistema de semáforo por meio do Arduíno, com a integração de entradas e saídas eletrônicas para simular o funcionamento de um cruzamento real, reforçando conceitos de lógica, sensores, atuadores utilizando linguagem c, utilizando um ambiente de simulação e montagem prática (tinkercad).
