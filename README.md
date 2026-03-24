@@ -1,10 +1,8 @@
 # 👩‍💻 Michele Almeida
 
-🎓 Graduando(a) em Bacharelado em Ciência da Computação pela Puc Minas 
+🎓 Graduando(a) em Bacharelado em Ciência da Computação pela Puc Minas\n
 💻 Focado(a) em desenvolvimento, lógica de programação e algoritmos  
 📍 Brasil  
-
----
 
 ## 🚀 Tecnologias e Ferramentas
 
@@ -33,24 +31,33 @@
 
 ---
 
-## 📂 Projetos
+## 📂 Exercícios Destacados (AEDs 1)
 
-### 🔹 [AEDs1 - Exercícios em C](https://github.com/MicheleFranciscaDeAlmeida/AEDs1-Projetos-Dev-Michele-1-2026)
-
-Repositório com exercícios práticos da disciplina de Algoritmos e Estruturas de Dados I.
-
-**Conceitos aplicados:**  
-- Estruturas condicionais (`if`, `else`, `switch`)  
-- Operações matemáticas  
-- Entrada e saída de dados (`scanf`, `printf`)  
-- Lógica de programação  
-- Funções e modularização  
+| Exercício | Descrição | Conceitos |
+|-----------|-----------|-----------|
+| [Exercício 1](https://github.com/MicheleFranciscaDeAlmeida/AEDs1-Projetos-Dev-Michele-1-2026/blob/main/prática/Exerc%C3%ADcio1.c) | Área e perímetro do retângulo | `if`, `else`, operações matemáticas |
+| [Exercício 2](https://github.com/MicheleFranciscaDeAlmeida/AEDs1-Projetos-Dev-Michele-1-2026/blob/main/prática/Exerc%C3%ADcio2.c) | Área do trapézio | `if`, `else`, cálculo de área |
+| [Exercício 3](https://github.com/MicheleFranciscaDeAlmeida/AEDs1-Projetos-Dev-Michele-1-2026/blob/main/prática/Exerc%C3%ADcio3.c) | Áreas | `if`, `else`, operações matemáticas |
+| [Exercício 4](https://github.com/MicheleFranciscaDeAlmeida/AEDs1-Projetos-Dev-Michele-1-2026/blob/main/prática/Exerc%C3%ADcio4.c) | Retângulo: área, perímetro e diagonal | `if`, `else`, cálculo de fórmulas |
+| [Exercício 5](https://github.com/MicheleFranciscaDeAlmeida/AEDs1-Projetos-Dev-Michele-1-2026/blob/main/prática/Exerc%C3%ADcio5.c) | Salário e horas trabalhadas | `if`, `else`, aritmética |
+| [Exercício 6](https://github.com/MicheleFranciscaDeAlmeida/AEDs1-Projetos-Dev-Michele-1-2026/blob/main/prática/Exerc%C3%ADcio6.c) | Consumo de combustível | `if`, `else`, cálculo de média |
+| [Exercício 7](https://github.com/MicheleFranciscaDeAlmeida/AEDs1-Projetos-Dev-Michele-1-2026/blob/main/prática/Exerc%C3%ADcio7.c) | Positivo, negativo ou zero | `if`, `else` |
+| [Exercício 8](https://github.com/MicheleFranciscaDeAlmeida/AEDs1-Projetos-Dev-Michele-1-2026/blob/main/prática/Exerc%C3%ADcio8.c) | Maior de dois números | `if`, `else` |
+| [Exercício 9](https://github.com/MicheleFranciscaDeAlmeida/AEDs1-Projetos-Dev-Michele-1-2026/blob/main/prática/Exerc%C3%ADcio9.c) | Par ou ímpar | `if`, `else` |
+| [Exercício 10](https://github.com/MicheleFranciscaDeAlmeida/AEDs1-Projetos-Dev-Michele-1-2026/blob/main/prática/Exerc%C3%ADcio10.c) | Média com situação | `if`, `else` |
+| [Exercício 11](https://github.com/MicheleFranciscaDeAlmeida/AEDs1-Projetos-Dev-Michele-1-2026/blob/main/prática/Exerc%C3%ADcio11.c) | Maior de três números | `if`, `else` |
+| [Exercício 12](https://github.com/MicheleFranciscaDeAlmeida/AEDs1-Projetos-Dev-Michele-1-2026/blob/main/prática/Exerc%C3%ADcio12.c) | Múltiplos | `if`, `else` |
+| [Exercício 13](https://github.com/MicheleFranciscaDeAlmeida/AEDs1-Projetos-Dev-Michele-1-2026/blob/main/prática/Exerc%C3%ADcio13.c) | Intervalo | `if`, `else` |
+| [Exercício 14](https://github.com/MicheleFranciscaDeAlmeida/AEDs1-Projetos-Dev-Michele-1-2026/blob/main/prática/Exerc%C3%ADcio14.c) | Intervalos múltiplos | `if`, `else` |
+| [Exercício 15](https://github.com/MicheleFranciscaDeAlmeida/AEDs1-Projetos-Dev-Michele-1-2026/blob/main/prática/Exerc%C3%ADcio15.c) | Lanche (clássico de prova) | `if`, `else` |
+| [Exercício 16](https://github.com/MicheleFranciscaDeAlmeida/AEDs1-Projetos-Dev-Michele-1-2026/blob/main/prática/Exerc%C3%ADcio16.c) | Aumento de salário | `if`, `else` |
+| [Exercício 17](https://github.com/MicheleFranciscaDeAlmeida/AEDs1-Projetos-Dev-Michele-1-2026/blob/main/prática/Exerc%C3%ADcio17.c) | Tipo de triângulo | `if`, `else` |
 
 ---
 
-### 🔹 [Calculadora em C](link do repositório futuro)
+## 📂 Outros Projetos
 
-Projeto simples de calculadora que realiza operações básicas: soma, subtração, multiplicação e divisão.
+### 🔹 [Calculadora em C](link do repositório futuro)
 
 **Conceitos aplicados:**  
 - Estruturas condicionais (`if`, `switch`)  
