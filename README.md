@@ -1,7 +1,7 @@
 # 👩‍💻 Michele Almeida
 
-🎓 Acadêmica de Bacharelado em Ciência da Computação pela Puc Minas 
-💻 Focando em desenvolvimento, lógica de programação e algoritmos  
+🎓 Graduando(a) em Bacharelado em Ciência da Computação pela Puc Minas 
+💻 Focado(a) em desenvolvimento, lógica de programação e algoritmos  
 📍 Brasil  
 
 ---
