@@ -72,13 +72,34 @@ Projetos realizados na disciplina **Laboratório de Iniciação à Programação
 - Operações básicas  
 - Lógica de programação  
 
-### 🔹 [Calculadora em C](link do repositório futuro)  
-Projeto simples de calculadora que realiza operações básicas: soma, subtração, multiplicação e divisão.  
-**Conceitos aplicados:**  
-- Estruturas condicionais (`if`, `switch`)  
-- Loops (`while`)  
-- Funções  
-- Entrada e saída de dados  
+### 🔹 Calculadora em C - (https://github.com/MicheleFranciscaDeAlmeida/Calculadora-C)  
+
+Aplicação desenvolvida em linguagem C com foco em programação estruturada e consolidação da lógica de programação. A calculadora realiza operações matemáticas básicas através de interação via terminal, demonstrando controle de fluxo e organização de código.
+
+🧠 Habilidades demonstradas:
+
+Lógica de programação e resolução de problemas
+Estruturas condicionais (if, switch)
+Estruturas de repetição (while)
+Modularização com funções
+Manipulação de entrada e saída de dados
+
+📊 Nível do projeto: Básico → Intermediário
+🎯 Objetivo: Consolidar fundamentos da linguagem C e boas práticas de organização de código
+
+### 🔹 Calculadora em C++ - (https://github.com/MicheleFranciscaDeAlmeida/Calculadora-CPP)  
+
+Aplicação desenvolvida em C++ com foco na evolução da lógica de programação e adaptação para uma linguagem mais robusta. O projeto reforça conceitos fundamentais e prepara base para Programação Orientada a Objetos (POO).
+
+🧠 Habilidades demonstradas:
+
+Adaptação de lógica de C para C++
+Estruturas condicionais e controle de fluxo (if, switch, while)
+Organização de código com funções
+Uso de entrada e saída com cin e cout
+
+📊 Nível do projeto: Básico → Intermediário
+🎯 Objetivo: Evoluir fundamentos de programação e preparar para conceitos de POO
 
 ---
 
