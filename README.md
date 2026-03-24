@@ -27,6 +27,7 @@
 ![Structs](https://img.shields.io/badge/Structs-blue?style=for-the-badge)
 ![Matemática](https://img.shields.io/badge/Matemática-blue?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge)
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge)
 
 ---
 
