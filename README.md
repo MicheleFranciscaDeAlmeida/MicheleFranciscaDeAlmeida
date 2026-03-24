@@ -57,16 +57,28 @@
 
 ## 📂 Outros Projetos
 
-### 🔹 [Projetos de LIP — 1º Período (2025)](https://github.com/MicheleFranciscaDeAlmeida/Projetos-de-LIP-1-periodo-2025)  
-Projetos realizados na disciplina **Linguagem de Programação I (LIP)**.  
+### 🔹 [Projetos de LIP — 1º Período (2025)](https://github.com/MicheleFranciscaDeAlmeida/Projetos-de-LIP-1-periodo-2025)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+Projetos realizados durante o 1º semestre de 2025, na disciplina de Laboratório de Iniciação a Programação.
+
+1- Primeiro Projeto de LIP - Semaforo: Desenvolvimento de um sistema de semáforo por meio do Arduíno, com a integração de entradas e saídas eletrônicas para simular o funcionamento de um cruzamento real, reforçando conceitos de lógica, sensores, atuadores utilizando linguagem c, utilizando um ambiente de simulação e montagem prática (tinkercad).
+
+2- Segundo Projeto de LIP - ODS: Criação de um sistema inteligente de separação e recirculação de água para adubo líquido utilizando o arduíno e ambiente de simulação (tinkercad).
+
+3- Projeto de LIP - Arduino Shield Multifuncional - Parking Assistant: Desenvolvimento de projeto de assistente de estacionamento com arduíno Shield multifuncional.
+
+4- Jogo interativo: Implementação de um jogo interativo no Arduino baseado no clássico Simon Genius arduíno shield multifuncional no tinkercad.
+
+5- Trabalho Final de LIP - Protótipo da solução do problema do ODS com o Shield Arduino: Implementação de protótipo funcional em Arduino, baseado em um dos 17 Objetivos de Desenvolvimento Sustentável (ODS) da ONU.
+
 **Conceitos aplicados:**  
 - Entrada e saída de dados  
 - Estruturas condicionais  
 - Loops (`for`, `while`)  
 - Operações básicas  
 - Lógica de programação
-
-
+  
 ### 🔹 [Calculadora em C](link do repositório futuro)
 
 **Conceitos aplicados:**  
