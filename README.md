@@ -57,6 +57,16 @@
 
 ## 📂 Outros Projetos
 
+### 🔹 [Projetos de LIP — 1º Período (2025)](https://github.com/MicheleFranciscaDeAlmeida/Projetos-de-LIP-1-periodo-2025)  
+Projetos realizados na disciplina **Linguagem de Programação I (LIP)**.  
+**Conceitos aplicados:**  
+- Entrada e saída de dados  
+- Estruturas condicionais  
+- Loops (`for`, `while`)  
+- Operações básicas  
+- Lógica de programação
+
+
 ### 🔹 [Calculadora em C](link do repositório futuro)
 
 **Conceitos aplicados:**  
