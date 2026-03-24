@@ -1,8 +1,7 @@
-# 👩‍💻 Michele Almeida
-
-🎓 Graduando(a) em Bacharelado em Ciência da Computação pela Puc Minas\n
-💻 Focado(a) em desenvolvimento, lógica de programação e algoritmos  
-📍 Brasil  
+👩‍💻 **Nome:** Michele Francisca de Almeida
+- 🎓 **Formação:** Bacharelado em Ciência da Computação - PUC Minas
+- 💻 **Foco:** Desenvolvimento, lógica de programação e algoritmos
+- 📍 **Localização:** Brasil
 
 ## 🚀 Tecnologias e Ferramentas
 
