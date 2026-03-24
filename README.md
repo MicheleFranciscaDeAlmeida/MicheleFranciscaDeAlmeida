@@ -42,7 +42,7 @@
 
 ## 📂 **Outros Projetos**
 
-### 🔹 **Projetos de LIP — 1º Período (2025)**
+### 🔹 **[Projetos de LIP — 1º Período (2025)](https://github.com/MicheleFranciscaDeAlmeida/Projetos-de-LIP-1-periodo-2025)**
 📌 Projetos focados em **fundamentos de programação**  
 
 💡 **Conceitos aplicados:**  
@@ -54,7 +54,7 @@
 
 ---
 
-### 🔹 **Calculadora em C** - (https://github.com/MicheleFranciscaDeAlmeida/Calculadora-C)
+### 🔹 **[Calculadora em C](https://github.com/MicheleFranciscaDeAlmeida/Calculadora-C)**
 💻 Projeto com foco em **programação estruturada e lógica de programação**  
 
 🧠 **Habilidades:**  
@@ -69,7 +69,7 @@
 
 ---
 
-### 🔹 **Calculadora em C++** - (https://github.com/MicheleFranciscaDeAlmeida/Calculadora-CPP)
+### 🔹 **[Calculadora em C++](https://github.com/MicheleFranciscaDeAlmeida/Calculadora-CPP)**
 💻 Projeto com foco na **evolução da lógica e adaptação para C++**  
 
 🧠 **Habilidades:**  
@@ -85,23 +85,31 @@
 
 ## 🌐 **Projetos de DIW – Desenvolvimento de Interfaces Web**
 
-### 🔹 **Semana 3**
+### 🔹 **[Semana 3](https://github.com/MicheleFranciscaDeAlmeida/diw-semana-3-atividade-pratica)**
 📌 Homepage interativa com formulário  
 💻 **Tecnologias:** HTML, CSS, Bootstrap, JavaScript  
 
-### 🔹 **Semanas 4 e 5**
+---
+
+### 🔹 **[Semanas 4 e 5](https://github.com/icei-diw-ead/diw-tp-04-t1-MicheleFranciscaDeAlmeida)**
 📌 Responsividade (mobile e desktop)  
 💻 **Tecnologias:** HTML, CSS  
 
-### 🔹 **Semanas 7 e 8**
+---
+
+### 🔹 **[Semanas 7 e 8](https://github.com/icei-diw-ead/diw-tp-05-t1-MicheleFranciscaDeAlmeida)**
 📌 Páginas dinâmicas  
 💻 **Tecnologias:** HTML, CSS, JavaScript  
 
-### 🔹 **Semanas 11 e 12**
+---
+
+### 🔹 **[Semanas 11 e 12](https://github.com/icei-diw-ead/diw-tp-06-t1-MicheleFranciscaDeAlmeida)**
 📌 CRUD com JSON Server  
 💻 **Tecnologias:** HTML, CSS, JavaScript  
 
-### 🔹 **Semanas 13 e 14**
+---
+
+### 🔹 **[Semanas 13 e 14](https://github.com/icei-diw-ead/diw-tp-07-t1-MicheleFranciscaDeAlmeida)**
 📌 Visualização com gráficos e mapas  
 💻 **Tecnologias:** HTML, CSS, JavaScript  
 
@@ -113,4 +121,4 @@
 ---
 
 ## 📫 **Contato**
-🔗 **GitHub:** MicheleFranciscaDeAlmeida  
+🔗 **GitHub:** **-** **(https://github.com/MicheleFranciscaDeAlmeida/MicheleFranciscaDeAlmeida)**
