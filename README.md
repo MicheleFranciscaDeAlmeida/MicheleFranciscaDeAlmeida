@@ -121,4 +121,7 @@
 ---
 
 ## 📫 **Contato**
-🔗 **GitHub:** **-** **(https://github.com/MicheleFranciscaDeAlmeida/MicheleFranciscaDeAlmeida)**
+
+📧 [Email](mailto:michellialmeida1002@gmail.com)  
+💼 [LinkedIn](www.linkedin.com/in/michele-almeida-60b70b314)  
+🔗 [GitHub](https://github.com/MicheleFranciscaDeAlmeida)  
