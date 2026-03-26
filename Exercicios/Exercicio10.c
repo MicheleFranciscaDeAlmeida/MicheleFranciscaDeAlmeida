@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*Exercício 4 – Média com situação
+/*Exercício 10 – Média com situação
 
 Leia duas notas (float), calcule a média e mostre:
 
