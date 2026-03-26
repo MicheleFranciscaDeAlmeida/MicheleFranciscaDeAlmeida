@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* Exercício 5 – Maior de três números
+/* Exercício 11 – Maior de três números
 
 Leia três valores inteiros e mostre:
 
