@@ -57,6 +57,9 @@
 | [Ex 15](./prática/Exercício15.c) | Lanche (clássico) | `if`, `else` |
 | [Ex 16](./prática/Exercício16.c) | Aumento de salário | `if`, `else` |
 | [Ex 17](./prática/Exercício17.c) | Tipo de triângulo | `if`, `else` |
+| [Lab 1](./prática/Exerciciolaboratorio1.c) | Introdução à modularização com criação de funções | funções, organização de código |
+| [Lab 2](./prática/Exerciciolaboratorio2.c) | Uso de funções com estruturas condicionais | funções, `if`, reutilização |
+| [Lab 3](./prática/Exerciciolaboratorio3.c) | Aplicação completa com múltiplas funções e repetição | funções, `for`, lógica de programação |
 
 ---
 
