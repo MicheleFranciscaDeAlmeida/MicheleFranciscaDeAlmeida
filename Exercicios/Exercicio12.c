@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* Exercício 6 – Múltiplos
+/* Exercício 12 – Múltiplos
 
 Leia dois números inteiros A e B e diga se eles são múltiplos entre si.
 
