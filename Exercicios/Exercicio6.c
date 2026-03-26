@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* Exercício 3 – Consumo de combustível
+/* Exercício 6 – Consumo de combustível
 
 Leia a distância percorrida (km) e o combustível gasto (litros).
 Calcule o consumo médio.
