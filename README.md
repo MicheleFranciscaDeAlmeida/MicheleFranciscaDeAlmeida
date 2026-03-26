@@ -44,19 +44,19 @@
 | [Exercicio2.c](./Exercicios/Exercicio2.c) | Área do trapézio | `if`, `else` |
 | [Exercicio3.c](./Exercicios/Exercicio3.c) | Áreas | `if`, `else` |
 | [Exercicio4.c](./Exercicios/Exercicio4.c) | Retângulo completo | `if`, `else` |
-| [Exercicio5.c](./Exercicios/Exercicio5.c) | Salário | `if`, `else` |
-| [Exercicio6.c](./Exercicios/Exercicio6.c) | Combustível | `if`, `else` |
+| [Exercicio5.c](./Exercicios/Exercicio5.c) | Salario | `if`, `else` |
+| [Exercicio6.c](./Exercicios/Exercicio6.c) | Combustivel | `if`, `else` |
 | [Exercicio7.c](./Exercicios/Exercicio7.c) | Positivo/Negativo | `if`, `else` |
-| [Exercicio8.c](./Exercicios/Exercicio8.c) | Maior número | `if`, `else` |
+| [Exercicio8.c](./Exercicios/Exercicio8.c) | Maior numero | `if`, `else` |
 | [Exercicio9.c](./Exercicios/Exercicio9.c) | Par ou ímpar | `if`, `else` |
-| [Exercicio10.c](./Exercicios/Exercicio10.c) | Média | `if`, `else` |
-| [Exercicio11.c](./Exercicios/Exercicio11.c) | Maior de três | `if`, `else` |
-| [Exercicio12.c](./Exercicios/Exercicio12.c) | Múltiplos | `if`, `else` |
+| [Exercicio10.c](./Exercicios/Exercicio10.c) | Media | `if`, `else` |
+| [Exercicio11.c](./Exercicios/Exercicio11.c) | Maior de tres numeros | `if`, `else` |
+| [Exercicio12.c](./Exercicios/Exercicio12.c) | Multiplos | `if`, `else` |
 | [Exercicio13.c](./Exercicios/Exercicio13.c) | Intervalo | `if`, `else` |
 | [Exercicio14.c](./Exercicios/Exercicio14.c) | Intervalos | `if`, `else` |
 | [Exercicio15.c](./Exercicios/Exercicio15.c) | Lanche | `if`, `else` |
-| [Exercicio16.c](./Exercicios/Exercicio16.c) | Aumento de salário | `if`, `else` |
-| [Exercicio17.c](./Exercicios/Exercicio17.c) | Tipo de triângulo | `if`, `else` |
+| [Exercicio16.c](./Exercicios/Exercicio16.c) | Aumento de salario | `if`, `else` |
+| [Exercicio17.c](./Exercicios/Exercicio17.c) | Tipo de triangulo | `if`, `else` |
 | [Exerciciolaboratorio1.c](./Exercicios/Exerciciolaboratorio1.c) | Introdução à modularização | funções |
 | [Exerciciolaboratorio2.c](./Exercicios/Exerciciolaboratorio2.c) | Funções com condição | funções, `if` |
 | [Exerciciolaboratorio3.c](./Exercicios/Exerciciolaboratorio3.c) | Funções + repetição | funções, `for` |
@@ -100,7 +100,7 @@
 ✔️ Adaptação de C para C++  
 ✔️ `if`, `switch`, `while`  
 ✔️ Funções  
-✔️ `cin` e `cout`  
+✔️ `cin` / `cout`  
 
 📊 **Nível:** Básico → Intermediário  
 🎯 **Objetivo:** Base para Programação Orientada a Objetos  
