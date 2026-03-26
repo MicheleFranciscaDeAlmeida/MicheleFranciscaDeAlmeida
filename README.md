@@ -38,8 +38,6 @@
 
 ## 📂 **Exercícios Destacados (AEDs 1)**
 
-## 📂 Exercícios Destacados (AEDs 1)
-
 | 🔢 Exercício | 📌 Descrição | 🧠 Conceitos |
 |------------|------------|-------------|
 | [Exercicio1.c](./Exercicios/Exercicio1.c) | Área e perímetro do retângulo | `if`, `else` |
