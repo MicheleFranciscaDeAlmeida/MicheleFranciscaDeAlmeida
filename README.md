@@ -40,26 +40,28 @@
 
 | 🔢 Exercício | 📌 Descrição | 🧠 Conceitos |
 |------------|------------|-------------|
-| [Exercício1.c](./prática/Exercício1.c) | Área e perímetro do retângulo | `if`, `else` |
-| [Exercício2.c](./prática/Exercício2.c) | Área do trapézio | `if`, `else` |
-| [Exercício3.c](./prática/Exercício3.c) | Áreas | `if`, `else` |
-| [Exercício4.c](./prática/Exercício4.c) | Retângulo completo | `if`, `else` |
-| [Exercício5.c](./prática/Exercício5.c) | Salário | `if`, `else` |
-| [Exercício6.c](./prática/Exercício6.c) | Combustível | `if`, `else` |
-| [Exercício7.c](./prática/Exercício7.c) | Positivo/Negativo | `if`, `else` |
-| [Exercício8.c](./prática/Exercício8.c) | Maior número | `if`, `else` |
-| [Exercício9.c](./prática/Exercício9.c) | Par ou ímpar | `if`, `else` |
-| [Exercício10.c](./prática/Exercício10.c) | Média | `if`, `else` |
-| [Exercício11.c](./prática/Exercício11.c) | Maior de três | `if`, `else` |
-| [Exercício12.c](./prática/Exercício12.c) | Múltiplos | `if`, `else` |
-| [Exercício13.c](./prática/Exercício13.c) | Intervalo | `if`, `else` |
-| [Exercício14.c](./prática/Exercício14.c) | Intervalos | `if`, `else` |
-| [Exercício15.c](./prática/Exercício15.c) | Lanche | `if`, `else` |
-| [Exercício16.c](./prática/Exercício16.c) | Aumento salário | `if`, `else` |
-| [Exercício17.c](./prática/Exercício17.c) | Triângulo | `if`, `else` |
-| [Exerciciolaboratorio1.c](./prática/Exerciciolaboratorio1.c) | Introdução à modularização com criação de funções | funções, organização de código |
-| [Exerciciolaboratorio2.c](./prática/Exerciciolaboratorio2.c) | Uso de funções com estruturas condicionais | funções, `if`, reutilização |
-| [Exerciciolaboratorio3.c](./prática/Exerciciolaboratorio3.c) | Aplicação completa com múltiplas funções e repetição | funções, `for`, lógica de programação |
+| 🔢 Exercício | 📌 Descrição | 🧠 Conceitos |
+|------------|------------|-------------|
+| [Exercício1.c](./Exercícios prática/Exercício1.c) | Área e perímetro do retângulo | `if`, `else` |
+| [Exercício2.c](./Exercícios prática/Exercício2.c) | Área do trapézio | `if`, `else` |
+| [Exercício3.c](./Exercícios prática/Exercício3.c) | Áreas | `if`, `else` |
+| [Exercício4.c](./Exercícios prática/Exercício4.c) | Retângulo completo | `if`, `else` |
+| [Exercício5.c](./Exercícios prática/Exercício5.c) | Salário | `if`, `else` |
+| [Exercício6.c](./Exercícios prática/Exercício6.c) | Combustível | `if`, `else` |
+| [Exercício7.c](./Exercícios prática/Exercício7.c) | Positivo/Negativo | `if`, `else` |
+| [Exercício8.c](./Exercícios prática/Exercício8.c) | Maior número | `if`, `else` |
+| [Exercício9.c](./Exercícios prática/Exercício9.c) | Par ou ímpar | `if`, `else` |
+| [Exercício10.c](./Exercícios prática/Exercício10.c) | Média | `if`, `else` |
+| [Exercício11.c](./Exercícios prática/Exercício11.c) | Maior de três | `if`, `else` |
+| [Exercício12.c](./Exercícios prática/Exercício12.c) | Múltiplos | `if`, `else` |
+| [Exercício13.c](./Exercícios prática/Exercício13.c) | Intervalo | `if`, `else` |
+| [Exercício14.c](./Exercícios prática/Exercício14.c) | Intervalos | `if`, `else` |
+| [Exercício15.c](./Exercícios prática/Exercício15.c) | Lanche | `if`, `else` |
+| [Exercício16.c](./Exercícios prática/Exercício16.c) | Aumento de salário | `if`, `else` |
+| [Exercício17.c](./Exercícios prática/Exercício17.c) | Tipo de triângulo | `if`, `else` |
+| [Exerciciolaboratorio1.c](./Exercícios prática/Exerciciolaboratorio1.c) | Introdução à modularização | funções |
+| [Exerciciolaboratorio2.c](./Exercícios prática/Exerciciolaboratorio2.c) | Funções com condição | funções, `if` |
+| [Exerciciolaboratorio3.c](./Exercícios prática/Exerciciolaboratorio3.c) | Funções + repetição | funções, `for` |
 
 ---
 
