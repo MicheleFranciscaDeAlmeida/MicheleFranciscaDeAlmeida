@@ -21,7 +21,7 @@
 
 ---
 
-## 🧩 Habilidades de AEDs 1
+## 🧩 Habilidades de (AEDs 1)
 
 ![Variáveis](https://img.shields.io/badge/Variáveis-blue?style=for-the-badge)
 ![Entrada/Saída](https://img.shields.io/badge/Entrada%20e%20Saída-blue?style=for-the-badge)
