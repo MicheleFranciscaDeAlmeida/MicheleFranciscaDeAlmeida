@@ -1,151 +1,105 @@
-# 👩‍💻 Michele Francisca de Almeida  
+<h1 align="center">👩‍💻 Michele Francisca de Almeida</h1>
 
-🎓 **Bacharelado em Ciência da Computação - PUC Minas**  
-💻 **Foco:** Desenvolvimento, lógica de programação e algoritmos  
-📍 **Localização:** Brasil  
+<p align="center">
+  🎓 Ciência da Computação - PUC Minas <br>
+  💻 Desenvolvimento | Algoritmos | Lógica de Programação <br>
+  📍 Brasil
+</p>
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Sobre mim
 
+💡 Estudante de Ciência da Computação focada em desenvolvimento de software e resolução de problemas.  
+📚 Experiência com algoritmos, lógica de programação e desenvolvimento web.  
+📊 Background administrativo que fortalece organização, comunicação e disciplina.  
+
+---
+
+## ⚡ Tecnologias
+
+### 💻 Linguagens
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🌐 Front-end
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🛠️ Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🧩 Habilidades de (AEDs 1)
+## 🚀 Projetos em Destaque
 
-![Variáveis](https://img.shields.io/badge/Variáveis-blue?style=for-the-badge)
-![Entrada/Saída](https://img.shields.io/badge/Entrada%20e%20Saída-blue?style=for-the-badge)
-![Condicional](https://img.shields.io/badge/Condicional%20(if/else)-blue?style=for-the-badge)
-![Switch](https://img.shields.io/badge/Switch-blue?style=for-the-badge)
-![Loops](https://img.shields.io/badge/Loops%20(for/while)-blue?style=for-the-badge)
-![Funções](https://img.shields.io/badge/Funções-blue?style=for-the-badge)
-![Modularização](https://img.shields.io/badge/Modularização-blue?style=for-the-badge)
-![Vetores](https://img.shields.io/badge/Vetores-blue?style=for-the-badge)
-![Matrizes](https://img.shields.io/badge/Matrizes-blue?style=for-the-badge)
-![Ponteiros](https://img.shields.io/badge/Ponteiros-blue?style=for-the-badge)
-![Structs](https://img.shields.io/badge/Structs-blue?style=for-the-badge)
-![Matemática](https://img.shields.io/badge/Matemática-blue?style=for-the-badge)
-
-## 📂 **Exercícios Destacados (AEDs 1)**
-
-| 🔢 Exercício | 📌 Descrição | 🧠 Conceitos |
-|------------|------------|-------------|
-| [Exercicio1.c](./Exercicios/Exercicio1.c) | Área e perímetro do retângulo | `if`, `else` |
-| [Exercicio2.c](./Exercicios/Exercicio2.c) | Área do trapézio | `if`, `else` |
-| [Exercicio3.c](./Exercicios/Exercicio3.c) | Áreas | `if`, `else` |
-| [Exercicio4.c](./Exercicios/Exercicio4.c) | Retângulo completo | `if`, `else` |
-| [Exercicio5.c](./Exercicios/Exercicio5.c) | Salario | `if`, `else` |
-| [Exercicio6.c](./Exercicios/Exercicio6.c) | Combustivel | `if`, `else` |
-| [Exercicio7.c](./Exercicios/Exercicio7.c) | Positivo/Negativo | `if`, `else` |
-| [Exercicio8.c](./Exercicios/Exercicio8.c) | Maior numero | `if`, `else` |
-| [Exercicio9.c](./Exercicios/Exercicio9.c) | Par ou ímpar | `if`, `else` |
-| [Exercicio10.c](./Exercicios/Exercicio10.c) | Media | `if`, `else` |
-| [Exercicio11.c](./Exercicios/Exercicio11.c) | Maior de tres numeros | `if`, `else` |
-| [Exercicio12.c](./Exercicios/Exercicio12.c) | Multiplos | `if`, `else` |
-| [Exercicio13.c](./Exercicios/Exercicio13.c) | Intervalo | `if`, `else` |
-| [Exercicio14.c](./Exercicios/Exercicio14.c) | Intervalos | `if`, `else` |
-| [Exercicio15.c](./Exercicios/Exercicio15.c) | Lanche | `if`, `else` |
-| [Exercicio16.c](./Exercicios/Exercicio16.c) | Aumento de salario | `if`, `else` |
-| [Exercicio17.c](./Exercicios/Exercicio17.c) | Tipo de triangulo | `if`, `else` |
-| [Exerciciolaboratorio1.c](./Exercicios/Exerciciolaboratorio1.c) | Introdução à modularização | funções |
-| [Exerciciolaboratorio2.c](./Exercicios/Exerciciolaboratorio2.c) | Funções com condição | funções, `if` |
-| [Exerciciolaboratorio3.c](./Exercicios/Exerciciolaboratorio3.c) | Funções + repetição | funções, `for` |
-
+### 🌐 DIW – Desenvolvimento Web
+📌 Interfaces responsivas e interativas  
+💻 HTML, CSS, JavaScript, Bootstrap  
+🔗 https://github.com/MicheleFranciscaDeAlmeida/diw-semana-3-atividade-pratica  
 
 ---
 
-## 📂 **Outros Projetos**
-
-### 🔹 **[Projetos de LIP — 1º Período (2025)](https://github.com/MicheleFranciscaDeAlmeida/Projetos-de-LIP-1-periodo-2025)**
-📌 Projetos focados em **fundamentos de programação**  
-
-💡 **Conceitos aplicados:**  
-✔️ Entrada e saída de dados  
-✔️ Estruturas condicionais  
-✔️ Loops (`for`, `while`)  
-✔️ Operações básicas  
-✔️ Lógica de programação  
+### 💻 LIP – Lógica de Programação
+📌 Fundamentos da programação  
+💻 Linguagem C  
+🔗 https://github.com/MicheleFranciscaDeAlmeida/Projetos-de-LIP-1-período-2025  
 
 ---
 
-### 🔹 **[Calculadora em C](https://github.com/MicheleFranciscaDeAlmeida/Calculadora-C)**
-💻 Projeto com foco em **programação estruturada e lógica de programação**  
-
-🧠 **Habilidades:**  
-✔️ Lógica de programação  
-✔️ `if`, `switch`  
-✔️ `while`  
-✔️ Funções  
-✔️ Entrada e saída de dados  
-
-📊 **Nível:** Básico → Intermediário  
-🎯 **Objetivo:** Consolidar fundamentos da linguagem C  
+### 🧠 AEDs 1 – Algoritmos e Estruturas
+📌 Exercícios e prática lógica  
+💻 C e C++  
+🔗 https://github.com/MicheleFranciscaDeAlmeida/AEDs1-Projetos-Dev-Michele-1-2026  
 
 ---
 
-### 🔹 **[Calculadora em C++](https://github.com/MicheleFranciscaDeAlmeida/Calculadora-CPP)**
-💻 Projeto com foco na **evolução da lógica e adaptação para C++**  
+## 📊 Estatísticas
 
-🧠 **Habilidades:**  
-✔️ Adaptação de C para C++  
-✔️ `if`, `switch`, `while`  
-✔️ Funções  
-✔️ `cin` / `cout`  
-
-📊 **Nível:** Básico → Intermediário  
-🎯 **Objetivo:** Base para Programação Orientada a Objetos  
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MicheleFranciscaDeAlmeida&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicheleFranciscaDeAlmeida&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-## 🌐 **Projetos de DIW – Desenvolvimento de Interfaces Web**
+## 📈 Atividade
 
-### 🔹 **[Semana 3](https://github.com/MicheleFranciscaDeAlmeida/diw-semana-3-atividade-pratica)**
-📌 Homepage interativa com formulário  
-💻 **Tecnologias:** HTML, CSS, Bootstrap, JavaScript  
-
----
-
-### 🔹 **[Semanas 4 e 5](https://github.com/icei-diw-ead/diw-tp-04-t1-MicheleFranciscaDeAlmeida)**
-📌 Responsividade (mobile e desktop)  
-💻 **Tecnologias:** HTML, CSS  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MicheleFranciscaDeAlmeida&theme=tokyo-night"/>
+</p>
 
 ---
 
-### 🔹 **[Semanas 7 e 8](https://github.com/icei-diw-ead/diw-tp-05-t1-MicheleFranciscaDeAlmeida)**
-📌 Páginas dinâmicas  
-💻 **Tecnologias:** HTML, CSS, JavaScript  
+## 🐍 Contribuições animadas
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MicheleFranciscaDeAlmeida/MicheleFranciscaDeAlmeida/output/github-contribution-grid-snake.svg">
+</p>
 
 ---
 
-### 🔹 **[Semanas 11 e 12](https://github.com/icei-diw-ead/diw-tp-06-t1-MicheleFranciscaDeAlmeida)**
-📌 CRUD com JSON Server  
-💻 **Tecnologias:** HTML, CSS, JavaScript  
+## 🎯 Objetivo
+
+🚀 Buscando oportunidade de estágio em desenvolvimento para evoluir como programadora e contribuir com soluções eficientes.
 
 ---
 
-### 🔹 **[Semanas 13 e 14](https://github.com/icei-diw-ead/diw-tp-07-t1-MicheleFranciscaDeAlmeida)**
-📌 Visualização com gráficos e mapas  
-💻 **Tecnologias:** HTML, CSS, JavaScript  
+## 📫 Contato
 
----
-
-## 🎯 **Objetivo**
-🚀 Buscando oportunidade de **estágio em desenvolvimento** para evoluir minhas habilidades em programação e interfaces web.  
-
----
-
-## 📫 **Contato**
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/michele-almeida-60b70b314)
-- 💻 [GitHub](https://github.com/MicheleFranciscaDeAlmeida)
-- 📧 [Email](mailto:michellialmeida1002@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/michele-almeida-60b70b314">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:michellialmeida1002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/MicheleFranciscaDeAlmeida">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
