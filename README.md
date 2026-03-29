@@ -38,15 +38,10 @@
 
 ## 🚀 Projetos em Destaque
 
-<div align="center">
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MicheleFranciscaDeAlmeida&repo=Calculadora-C&theme=tokyonight&cache_seconds=86400&v=1"/>
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MicheleFranciscaDeAlmeida&repo=AEDs1-Projetos-Dev-Michele-1-2026&theme=tokyonight&cache_seconds=86400&v=1"/>
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MicheleFranciscaDeAlmeida&repo=diw-semana-3-atividade-pratica&theme=tokyonight&cache_seconds=86400&v=1"/>
-
-</div>
+- 🧮 [Calculadora em C](https://github.com/MicheleFranciscaDeAlmeida/Calculadora-C)
+- 📊 [Projetos AEDs 1](https://github.com/MicheleFranciscaDeAlmeida/AEDs1-Projetos-Dev-Michele-1-2026)
+- 🌐 [Projetos DIW](https://github.com/MicheleFranciscaDeAlmeida/diw-semana-3-atividade-pratica)
 
 --- 
 
