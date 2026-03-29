@@ -40,17 +40,11 @@
 
 <div align="center">
 
-<a href="https://github.com/MicheleFranciscaDeAlmeida/Calculadora-C">
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MicheleFranciscaDeAlmeida&repo=Calculadora-C&theme=tokyonight" />
-</a>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MicheleFranciscaDeAlmeida&repo=Calculadora-C&theme=tokyonight&cache_seconds=86400&v=1"/>
 
-<a href="https://github.com/MicheleFranciscaDeAlmeida/AEDs1-Projetos-Dev-Michele-1-2026">
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MicheleFranciscaDeAlmeida&repo=AEDs1-Projetos-Dev-Michele-1-2026&theme=tokyonight" />
-</a>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MicheleFranciscaDeAlmeida&repo=AEDs1-Projetos-Dev-Michele-1-2026&theme=tokyonight&cache_seconds=86400&v=1"/>
 
-<a href="https://github.com/MicheleFranciscaDeAlmeida/diw-semana-3-atividade-pratica">
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MicheleFranciscaDeAlmeida&repo=diw-semana-3-atividade-pratica&theme=tokyonight" />
-</a>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MicheleFranciscaDeAlmeida&repo=diw-semana-3-atividade-pratica&theme=tokyonight&cache_seconds=86400&v=1"/>
 
 </div>
 
