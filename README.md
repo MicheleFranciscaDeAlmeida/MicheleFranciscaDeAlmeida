@@ -48,7 +48,13 @@
 🔗 https://github.com/MicheleFranciscaDeAlmeida/AEDs1-Projetos-Dev-Michele-1-2026  
 
 🌐 **Projetos de Desenvolvimento Web (DIW)**  
-🔗 https://github.com/MicheleFranciscaDeAlmeida/diw-semana-3-atividade-pratica  
+🔗 https://github.com/MicheleFranciscaDeAlmeida/diw-semana-3-atividade-pratica
+
+
+🌐 **Projetos de Laboratório de Iniciação à Programação (LIP)**  
+🔗 https://github.com/MicheleFranciscaDeAlmeida/Projetos-de-LIP-1-periodo-2025
+
+
 --- 
 
 ## 📊 Estatísticas
