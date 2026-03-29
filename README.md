@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre mim
 
-💡 Estudante de Ciência da Computação focada em desenvolvimento de software e resolução de problemas.  
+💡 Estudante de Ciência da Computação focado(a) em desenvolvimento de software e resolução de problemas.  
 📚 Experiência com algoritmos, lógica de programação e desenvolvimento web.  
 📊 Background administrativo que fortalece organização, comunicação e disciplina.  
 
