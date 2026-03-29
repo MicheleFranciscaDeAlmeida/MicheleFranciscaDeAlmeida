@@ -38,11 +38,17 @@
 
 ## 🚀 Projetos em Destaque
 
+🧮 **Calculadora em C**  
+🔗 https://github.com/MicheleFranciscaDeAlmeida/Calculadora-C  
 
-- 🧮 [Calculadora em C](https://github.com/MicheleFranciscaDeAlmeida/Calculadora-C)
-- 📊 [Projetos AEDs 1](https://github.com/MicheleFranciscaDeAlmeida/AEDs1-Projetos-Dev-Michele-1-2026)
-- 🌐 [Projetos DIW](https://github.com/MicheleFranciscaDeAlmeida/diw-semana-3-atividade-pratica)
+🧮 **Calculadora em C++**  
+🔗 https://github.com/MicheleFranciscaDeAlmeida/Calculadora-C++ 
 
+📊 **Projetos de Algoritmos (AEDs 1)**  
+🔗 https://github.com/MicheleFranciscaDeAlmeida/AEDs1-Projetos-Dev-Michele-1-2026  
+
+🌐 **Projetos de Desenvolvimento Web (DIW)**  
+🔗 https://github.com/MicheleFranciscaDeAlmeida/diw-semana-3-atividade-pratica  
 --- 
 
 ## 📊 Estatísticas
