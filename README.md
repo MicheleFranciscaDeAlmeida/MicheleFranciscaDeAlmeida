@@ -62,11 +62,7 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MicheleFranciscaDeAlmeida&show_icons=true&theme=tokyonight">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MicheleFranciscaDeAlmeida&layout=compact&theme=tokyonight">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MicheleFranciscaDeAlmeida&theme=tokyonight">
 </p>
 
 ---
