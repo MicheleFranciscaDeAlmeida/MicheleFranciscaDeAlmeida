@@ -62,10 +62,11 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MicheleFranciscaDeAlmeida&show_icons=true&theme=tokyonight&cache_seconds=86400">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MicheleFranciscaDeAlmeida&show_icons=true&theme=tokyonight">
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicheleFranciscaDeAlmeida&layout=compact&theme=tokyonight&cache_seconds=86400">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MicheleFranciscaDeAlmeida&layout=compact&theme=tokyonight">
 </p>
 
 ---
