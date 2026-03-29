@@ -54,6 +54,9 @@
 🌐 **Projetos de Laboratório de Iniciação à Programação (LIP)**  
 🔗 https://github.com/MicheleFranciscaDeAlmeida/Projetos-de-LIP-1-periodo-2025
 
+📊 **Projetos de Sistema de Cadastro em C**  
+🔗 https://github.com/MicheleFranciscaDeAlmeida/sistema-cadastro-c
+
 
 --- 
 
