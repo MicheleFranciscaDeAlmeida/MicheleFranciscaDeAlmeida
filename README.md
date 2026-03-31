@@ -14,9 +14,9 @@
 
 ## ✨ Sobre mim
 
-Sou estudante de Ciência da Computação focada em desenvolvimento front-end, criando interfaces modernas, funcionais e responsivas.
+Sou estudante de Ciência da Computação focado(a) em desenvolvimento front-end, criando interfaces modernas, funcionais e responsivas.
 
-💡 Transformo ideias em experiências visuais interativas utilizando boas práticas de desenvolvimento e design.
+💡 Transformando ideias em experiências visuais interativas utilizando boas práticas de desenvolvimento e design.
 
 🎯 Buscando oportunidade de estágio para evoluir como desenvolvedora e atuar em projetos reais.
 
@@ -26,7 +26,7 @@ Sou estudante de Ciência da Computação focada em desenvolvimento front-end, c
 
 🔷 **Sistema de Gestão de Pacientes (Front-end)**
 Interface completa com cadastro, manipulação de dados e LocalStorage
-🔗 (adicione aqui)
+🔗 (Em desenvolvimento)
 
 🔷 **Portfólio Web Responsivo**
 Site pessoal com design moderno e navegação fluida
@@ -46,12 +46,11 @@ Projeto focado em UI/UX e experiência do usuário
 
 ---
 
-## 🏆 Destaques
+## 🏆 Destaques tecnológicos
 
 <p align="center">
   <img src="https://img.shields.io/badge/FOCO-Front--End-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/STATUS-Buscando%20Estágio-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NÍVEL-Júnior-8A2BE2?style=for-the-badge"/>
 </p>
 
 ---
@@ -79,7 +78,7 @@ Projeto focado em UI/UX e experiência do usuário
 
 ## 🎯 Objetivo
 
-Atuar como estagiária em desenvolvimento front-end, aplicando meus conhecimentos e evoluindo continuamente na área de tecnologia.
+Atuar como estagiário(a) em desenvolvimento front-end, aplicando meus conhecimentos e evoluindo continuamente na área de tecnologia.
 
 ---
 
