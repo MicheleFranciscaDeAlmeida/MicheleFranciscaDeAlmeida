@@ -14,30 +14,26 @@
 
 ## ✨ Sobre mim
 
-Sou estudante de Ciência da Computação apaixonada por desenvolvimento web e criação de interfaces modernas, funcionais e responsivas.
+Sou estudante de Ciência da Computação focada em desenvolvimento front-end, criando interfaces modernas, funcionais e responsivas.
 
-Tenho experiência prática com:
+💡 Transformo ideias em experiências visuais interativas utilizando boas práticas de desenvolvimento e design.
 
-* construção de interfaces (UI)
-* lógica de programação
-* desenvolvimento de projetos reais
-
-💡 Meu foco é evoluir como desenvolvedora front-end e transformar ideias em soluções visuais e interativas.
+🎯 Buscando oportunidade de estágio para evoluir como desenvolvedora e atuar em projetos reais.
 
 ---
 
 ## 🚀 Projetos em Destaque
 
 🔷 **Sistema de Gestão de Pacientes (Front-end)**
-Interface moderna com cadastro, listagem e manipulação de dados (LocalStorage)
-🔗 (adicione aqui quando finalizar)
+Interface completa com cadastro, manipulação de dados e LocalStorage
+🔗 (adicione aqui)
 
 🔷 **Portfólio Web Responsivo**
-Site pessoal com design moderno e navegação responsiva
+Site pessoal com design moderno e navegação fluida
 🔗 https://github.com/MicheleFranciscaDeAlmeida/Portf-lio-Web-Responsivo-Michele-Almeida
 
-🔷 **Code-UX (Interface e Experiência do Usuário)**
-Projeto focado em UI/UX e construção visual de aplicações
+🔷 **Code-UX**
+Projeto focado em UI/UX e experiência do usuário
 🔗 https://github.com/MicheleFranciscaDeAlmeida/Code-UX
 
 ---
@@ -45,14 +41,22 @@ Projeto focado em UI/UX e construção visual de aplicações
 ## 💻 Tecnologias
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode,c,cpp,java"/>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode,c,cpp,java"/>
 </p>
 
 ---
 
-## 📊 Estatísticas
+## 🏆 Destaques
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCO-Front--End-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STATUS-Buscando%20Estágio-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NÍVEL-Júnior-8A2BE2?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 Atividade no GitHub
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MicheleFranciscaDeAlmeida&theme=tokyonight"/>
@@ -62,7 +66,6 @@ Projeto focado em UI/UX e construção visual de aplicações
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MicheleFranciscaDeAlmeida&theme=tokyonight"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MicheleFranciscaDeAlmeida&theme=tokyonight"/>
 </p>
-
 
 ---
 
@@ -76,7 +79,7 @@ Projeto focado em UI/UX e construção visual de aplicações
 
 ## 🎯 Objetivo
 
-Busco oportunidade de estágio em desenvolvimento front-end para aplicar meus conhecimentos, evoluir tecnicamente e contribuir com projetos reais.
+Atuar como estagiária em desenvolvimento front-end, aplicando meus conhecimentos e evoluindo continuamente na área de tecnologia.
 
 ---
 
@@ -92,5 +95,5 @@ Busco oportunidade de estágio em desenvolvimento front-end para aplicar meus co
 </p>
 
 <p align="center">
-  💜 Sempre aprendendo e evoluindo na área de tecnologia
+  💜 Construindo minha carreira na tecnologia com consistência
 </p>
