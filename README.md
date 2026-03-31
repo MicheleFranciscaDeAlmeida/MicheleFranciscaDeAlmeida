@@ -44,19 +44,23 @@
 🧮 **Calculadora em C++**  
 🔗 https://github.com/MicheleFranciscaDeAlmeida/Calculadora-C++ 
 
+📊 **Portfólio Web Responsivo - Michele Almeida**  
+🔗 https://github.com/MicheleFranciscaDeAlmeida/Portf-lio-Web-Responsivo-Michele-Almeida
+
+📊 **Portfólio Code-UX - Michele Almeida**  
+🔗 https://github.com/MicheleFranciscaDeAlmeida/Code-UX
+
 📊 **Projetos de Algoritmos (AEDs 1)**  
 🔗 https://github.com/MicheleFranciscaDeAlmeida/AEDs1-Projetos-Dev-Michele-1-2026  
 
 🌐 **Projetos de Desenvolvimento Web (DIW)**  
 🔗 https://github.com/MicheleFranciscaDeAlmeida/diw-semana-3-atividade-pratica
 
-
 🌐 **Projetos de Laboratório de Iniciação à Programação (LIP)**  
 🔗 https://github.com/MicheleFranciscaDeAlmeida/Projetos-de-LIP-1-periodo-2025
 
-📊 **Projetos de Sistema de Cadastro em C**  
+📊 **Projeto de Sistema de Cadastro em C**  
 🔗 https://github.com/MicheleFranciscaDeAlmeida/sistema-cadastro-c
-
 
 --- 
 
