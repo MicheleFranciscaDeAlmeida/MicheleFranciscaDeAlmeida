@@ -1,95 +1,77 @@
-<h1 align="center">👩‍💻 Michele Francisca de Almeida</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Michele%20Almeida&fontSize=40&fontColor=ffffff"/>
+</p>
+
+<h1 align="center">👩‍💻 Desenvolvedora Front-end</h1>
 
 <p align="center">
   🎓 Ciência da Computação - PUC Minas <br>
-  💻 Desenvolvimento | Algoritmos | Lógica de Programação <br>
+  💻 HTML | CSS | JavaScript <br>
   📍 Brasil
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## ✨ Sobre mim
 
-💡 Estudante de Ciência da Computação focado(a) em desenvolvimento de software e resolução de problemas.  
-📚 Experiência com algoritmos, lógica de programação e desenvolvimento web.  
-📊 Background administrativo que fortalece organização, comunicação e disciplina.  
+Sou estudante de Ciência da Computação apaixonada por desenvolvimento web e criação de interfaces modernas, funcionais e responsivas.
 
----
+Tenho experiência prática com:
 
-## ⚡ Tecnologias
+* construção de interfaces (UI)
+* lógica de programação
+* desenvolvimento de projetos reais
 
-### 💻 Linguagens
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🌐 Front-end
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🛠️ Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+💡 Meu foco é evoluir como desenvolvedora front-end e transformar ideias em soluções visuais e interativas.
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-🧮 **Calculadora em C**  
-🔗 https://github.com/MicheleFranciscaDeAlmeida/Calculadora-C  
+🔷 **Sistema de Gestão de Pacientes (Front-end)**
+Interface moderna com cadastro, listagem e manipulação de dados (LocalStorage)
+🔗 (adicione aqui quando finalizar)
 
-🧮 **Calculadora em C++**  
-🔗 https://github.com/MicheleFranciscaDeAlmeida/Calculadora-C++ 
-
-📊 **Portfólio Web Responsivo - Michele Almeida**  
+🔷 **Portfólio Web Responsivo**
+Site pessoal com design moderno e navegação responsiva
 🔗 https://github.com/MicheleFranciscaDeAlmeida/Portf-lio-Web-Responsivo-Michele-Almeida
 
-📊 **Portfólio Code-UX - Michele Almeida**  
+🔷 **Code-UX (Interface e Experiência do Usuário)**
+Projeto focado em UI/UX e construção visual de aplicações
 🔗 https://github.com/MicheleFranciscaDeAlmeida/Code-UX
 
-📊 **Projetos de Algoritmos (AEDs 1)**  
-🔗 https://github.com/MicheleFranciscaDeAlmeida/AEDs1-Projetos-Dev-Michele-1-2026  
+---
 
-🌐 **Projetos de Desenvolvimento Web (DIW)**  
-🔗 https://github.com/MicheleFranciscaDeAlmeida/diw-semana-3-atividade-pratica
+## 💻 Tecnologias
 
-🌐 **Projetos de Laboratório de Iniciação à Programação (LIP)**  
-🔗 https://github.com/MicheleFranciscaDeAlmeida/Projetos-de-LIP-1-periodo-2025
+<p align="center">
 
-📊 **Projeto de Sistema de Cadastro em C**  
-🔗 https://github.com/MicheleFranciscaDeAlmeida/sistema-cadastro-c
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode,c,cpp,java"/>
 
---- 
+</p>
+
+---
 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MicheleFranciscaDeAlmeida&theme=tokyonight">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MicheleFranciscaDeAlmeida&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicheleFranciscaDeAlmeida&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📈 Atividade
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MicheleFranciscaDeAlmeida&theme=tokyo-night"/>
-</p>
-
----
-
-## 🐍 Contribuições animadas
+## 🐍 Contribuições
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MicheleFranciscaDeAlmeida/MicheleFranciscaDeAlmeida/output/github-contribution-grid-snake.svg">
 </p>
+
 ---
 
 ## 🎯 Objetivo
 
-🚀 Buscando oportunidade de estágio em desenvolvimento para evoluir como programadora e contribuir com soluções eficientes.
+Busco oportunidade de estágio em desenvolvimento front-end para aplicar meus conhecimentos, evoluir tecnicamente e contribuir com projetos reais.
 
 ---
 
@@ -97,12 +79,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/michele-almeida-60b70b314">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:michellialmeida1002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://github.com/MicheleFranciscaDeAlmeida">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+</p>
+
+<p align="center">
+  💜 Sempre aprendendo e evoluindo na área de tecnologia
 </p>

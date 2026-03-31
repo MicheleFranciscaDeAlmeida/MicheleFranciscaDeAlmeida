@@ -5,24 +5,20 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Generate snake
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: MicheleFranciscaDeAlmeida
-          outputs: |
-            dist/github-contribution-grid-snake.svg
 
-      - name: Push to output branch
-        uses: peaceiris/actions-gh-pages@v4
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=8A2BE2&color_dots=#ebedf0,#c6a0f6,#a855f7,#9333ea,#7e22ce
+
+      - uses: crazy-max/ghaction-github-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
-          publish_branch: output
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
