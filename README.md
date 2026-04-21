@@ -14,35 +14,57 @@
 
 ## ✨ Sobre mim
 
-Sou estudante de Ciência da Computação focado(a) em desenvolvimento front-end, criando interfaces modernas, funcionais e responsivas.
+Sou estudante de Ciência da Computação com foco em desenvolvimento front-end, criando interfaces modernas, funcionais e responsivas.
 
-💡 Transformando ideias em experiências visuais interativas utilizando boas práticas de desenvolvimento e design.
+Possuo sólida base em lógica de programação com C, C++ e Java, o que contribui para o desenvolvimento de soluções mais estruturadas e eficientes.
+
+Tenho experiência prática em projetos acadêmicos e pessoais, com foco em usabilidade, organização de código e boas práticas de desenvolvimento.
 
 🎯 Buscando oportunidade de estágio para evoluir como desenvolvedora e atuar em projetos reais.
-
 ---
 
 ## 🚀 Projetos em Destaque
 
 🔷 **Sistema de Gestão de Pacientes (Front-end)**
-Interface completa com cadastro, manipulação de dados e LocalStorage
+Aplicação web com cadastro, edição e remoção de pacientes utilizando LocalStorage, com foco em organização de dados e usabilidade.  
 🔗 https://github.com/MicheleFranciscaDeAlmeida/Sistema-de-Gestao-de-Pacientes-Front-End
 
 🔷 **Portfólio Web Responsivo**
-Site pessoal com design moderno e navegação fluida
+Site pessoal com design moderno, responsivo e navegação fluida, desenvolvido com HTML, CSS e JavaScript.  
 🔗 https://github.com/MicheleFranciscaDeAlmeida/Portf-lio-Web-Responsivo-Michele-Almeida
 
 🔷 **Code-UX**
-Projeto focado em UI/UX e experiência do usuário
+Projeto com foco em UI/UX e experiência do usuário, aplicando conceitos de design e usabilidade. 
 🔗 https://github.com/MicheleFranciscaDeAlmeida/Code-UX
 
 ---
 
 ## 💻 Tecnologias
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode,c,cpp,java"/>
-</p>
+### 🌐 Front-end
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+---
+
+### ⚙️ Back-end (em aprendizado)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+---
+
+### 🧠 Lógica de Programação
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+---
+
+### 🔧 Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -76,9 +98,17 @@ Projeto focado em UI/UX e experiência do usuário
 
 ---
 
+## 📚 Atualmente estudando
+
+- Node.js  
+- APIs REST  
+- Integração entre Front-end e Back-end  
+
+---
+
 ## 🎯 Objetivo
 
-Atuar como estagiário(a) em desenvolvimento front-end, aplicando meus conhecimentos e evoluindo continuamente na área de tecnologia.
+Atuar como estagiária em desenvolvimento de software, aplicando meus conhecimentos e evoluindo continuamente na área de tecnologia, com foco em desenvolvimento full stack.
 
 ---
 
@@ -94,5 +124,5 @@ Atuar como estagiário(a) em desenvolvimento front-end, aplicando meus conhecime
 </p>
 
 <p align="center">
-  💜 Construindo minha carreira na tecnologia com consistência
+  💜 Construindo minha carreira em tecnologia com consistência
 </p>
