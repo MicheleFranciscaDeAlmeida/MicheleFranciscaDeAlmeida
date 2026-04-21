@@ -2,12 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Michele%20Almeida&fontSize=40&fontColor=ffffff"/>
 </p>
 
-<h1 align="center">## 👩‍💻 Desenvolvedora Front-end em formação  
-**Full Stack em evolução**</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=28&center=true&vCenter=true&width=600&lines=👩‍💻+Desenvolvedora+Front-end+em+formação;🚀+Full+Stack+em+evolução;💡+Construindo+minha+carreira+em+tecnologia" />
+</p>
 
 <p align="center">
   🎓 Ciência da Computação - PUC Minas <br>
-  💻 HTML | CSS | JavaScript | C | C++ | Java <br>
+ 💻 HTML | CSS | JavaScript | C | C++ | Java | Node.js <br>
   📍 Brasil
 </p>
 
@@ -19,23 +20,29 @@ Sou estudante de Ciência da Computação com foco em desenvolvimento front-end,
 
 Possuo sólida base em lógica de programação com C, C++ e Java, o que contribui para o desenvolvimento de soluções mais estruturadas e eficientes.
 
+🎯 Buscando oportunidade de estágio para evoluir como desenvolvedora e atuar em projetos reais.
+
 Tenho experiência prática em projetos acadêmicos e pessoais, com foco em usabilidade, organização de código e boas práticas de desenvolvimento.
 
-🎯 Buscando oportunidade de estágio para evoluir como desenvolvedora e atuar em projetos reais.
+Atualmente, estou aprofundando conhecimentos em integração entre front-end e back-end.
+
 ---
 
 ## 🚀 Projetos em Destaque
 
-🔷 **Sistema de Gestão de Pacientes (Front-end)**
+🔷 **Sistema de Gestão de Pacientes (Front-end)**  
 Aplicação web com cadastro, edição e remoção de pacientes utilizando LocalStorage, com foco em organização de dados e usabilidade.  
+
 🔗 https://github.com/MicheleFranciscaDeAlmeida/Sistema-de-Gestao-de-Pacientes-Front-End
 
 🔷 **Portfólio Web Responsivo**
 Site pessoal com design moderno, responsivo e navegação fluida, desenvolvido com HTML, CSS e JavaScript.  
+
 🔗 https://github.com/MicheleFranciscaDeAlmeida/Portf-lio-Web-Responsivo-Michele-Almeida
 
 🔷 **Code-UX**
 Projeto com foco em UI/UX e experiência do usuário, aplicando conceitos de design e usabilidade. 
+
 🔗 https://github.com/MicheleFranciscaDeAlmeida/Code-UX
 
 ---
@@ -50,15 +57,15 @@ Projeto com foco em UI/UX e experiência do usuário, aplicando conceitos de des
 
 ---
 
-### ⚙️ Back-end (em aprendizado contínuo)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
----
-
 ### 🧠 Lógica de Programação
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+---
+
+### ⚙️ Back-end (em aprendizado contínuo)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
@@ -69,11 +76,13 @@ Projeto com foco em UI/UX e experiência do usuário, aplicando conceitos de des
 
 ---
 
-## 🏆 Destaques tecnológicos
+## 🏆 Destaques Tecnológicos
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FOCO-Front--End-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/STATUS-Buscando%20Estágio-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Front--End-HTML%20%7C%20CSS%20%7C%20JS-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Base%20Sólida-C%20%7C%20C%2B%2B%20%7C%20Java-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Back--End-Node.js%20(em%20evolução)-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Aberta%20aEstágio-8A2BE2?style=for-the-badge"/>
 </p>
 
 ---
