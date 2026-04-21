@@ -2,11 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Michele%20Almeida&fontSize=40&fontColor=ffffff"/>
 </p>
 
-<h1 align="center">👩‍💻 Desenvolvedora Front-end em formação | Full Stack em evolução</h1>
+<h1 align="center">👩‍💻 Desenvolvedora Front-end em formação | 
+Full Stack em evolução</h1>
 
 <p align="center">
   🎓 Ciência da Computação - PUC Minas <br>
-  💻 HTML | CSS | JavaScript <br>
+  💻 HTML | CSS | JavaScript | C | C++ | Java <br>
   📍 Brasil
 </p>
 
@@ -39,7 +40,7 @@ Projeto com foco em UI/UX e experiência do usuário, aplicando conceitos de des
 
 ---
 
-## 💻 Tecnologias
+## 💻 Tecnologias e Ferramentas
 
 ### 🌐 Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -49,7 +50,7 @@ Projeto com foco em UI/UX e experiência do usuário, aplicando conceitos de des
 
 ---
 
-### ⚙️ Back-end (em aprendizado)
+### ⚙️ Back-end (em aprendizado contínuo)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
