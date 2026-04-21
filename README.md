@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Michele%20Almeida&fontSize=40&fontColor=ffffff"/>
 </p>
 
-<h1 align="center">👩‍💻 Desenvolvedora Front-end em formação | 
-Full Stack em evolução</h1>
+<h1 align="center">## 👩‍💻 Desenvolvedora Front-end em formação  
+**Full Stack em evolução**</h1>
 
 <p align="center">
   🎓 Ciência da Computação - PUC Minas <br>
