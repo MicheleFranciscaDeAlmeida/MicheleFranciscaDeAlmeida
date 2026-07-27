@@ -45,6 +45,11 @@ Projeto com foco em UI/UX e experiência do usuário, aplicando conceitos de des
 
 🔗 https://github.com/MicheleFranciscaDeAlmeida/Code-UX
 
+🔷 **Quiz-Java**
+Meu primeiro projeto em Java: um quiz interativo desenvolvido pelo terminal.
+
+🔗 https://github.com/MicheleFranciscaDeAlmeida/quiz-java
+
 ---
 
 ## 💻 Tecnologias e Ferramentas
