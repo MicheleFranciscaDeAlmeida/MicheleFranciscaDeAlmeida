@@ -69,7 +69,7 @@ Meu primeiro projeto em Java: um quiz interativo desenvolvido pelo terminal.
 ---
 
 ### ⚙️ Back-end (em aprendizado contínuo)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/MicheleFranciscaDeAlmeida/quiz-java)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
@@ -91,6 +91,14 @@ Meu primeiro projeto em Java: um quiz interativo desenvolvido pelo terminal.
 </p>
 
 ---
+
+## 🎯 Foco Atual
+- 🚀 **AEDS 2 & Java:** Desenvolvendo [Quiz-Java](https://github.com/MicheleFranciscaDeAlmeida/quiz-java) no terminal/Linux.
+- 🔗 **TI II: Back-End:** Explorando integração entre disciplinas e fundamentos de desenvolvimento web.
+- 💻 **Arquitetura de Computadores I:** Entendendo hardware, binário e lógica digital.
+- 🏗️ **Engenharia de Software I:** Aprendendo ciclos de vida, requisitos e organização de projetos.
+- 📐 **Cálculo I:** Consolidando limites algébricos e modelagem de funções (Formulário pronto!).
+- 📅 **Semestre:** Início em 03/08/2026!
 
 ## 📊 Atividade no GitHub
 
