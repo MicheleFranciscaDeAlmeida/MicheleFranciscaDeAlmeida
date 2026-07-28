@@ -99,10 +99,6 @@ Meu primeiro projeto em Java: um quiz interativo desenvolvido pelo terminal.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=MicheleFranciscaDeAlmeida&theme=tokyonight" alt="Top Languages"/>
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MicheleFranciscaDeAlmeida&theme=tokyonight"/>
 </p>
 
