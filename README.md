@@ -60,14 +60,13 @@ Meu primeiro projeto em Java: um quiz interativo desenvolvido pelo terminal.
 </p>
 
 ---
-
+<!--
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=MicheleFranciscaDeAlmeida&theme=tokyonight" />
 </p>
-
----
+-->
 
 ## 💻 Tecnologias e Ferramentas
 
