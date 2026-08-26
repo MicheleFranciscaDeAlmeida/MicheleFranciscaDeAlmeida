@@ -52,24 +52,14 @@ Meu primeiro projeto em Java: um quiz interativo desenvolvido pelo terminal.
 
 ---
 
-<!--
+--
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MicheleFranciscaDeAlmeida&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicheleFranciscaDeAlmeida&layout=compact&theme=tokyonight" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MicheleFranciscaDeAlmeida&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MicheleFranciscaDeAlmeida&theme=tokyonight" />
-</p>
-
----
--->
 
 ## 💻 Tecnologias e Ferramentas
 
