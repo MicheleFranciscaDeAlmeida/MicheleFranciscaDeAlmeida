@@ -64,7 +64,7 @@ Meu primeiro projeto em Java: um quiz interativo desenvolvido pelo terminal.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MicheleFranciscaDeAlmeida&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=MicheleFranciscaDeAlmeida&theme=tokyonight" />
 </p>
 
 ---
