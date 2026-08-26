@@ -52,6 +52,7 @@ Meu primeiro projeto em Java: um quiz interativo desenvolvido pelo terminal.
 
 ---
 
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -68,6 +69,7 @@ Meu primeiro projeto em Java: um quiz interativo desenvolvido pelo terminal.
 </p>
 
 ---
+-->
 
 ## 💻 Tecnologias e Ferramentas
 
