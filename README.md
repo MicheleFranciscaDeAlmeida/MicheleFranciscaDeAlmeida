@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A4F,100:2563EB&height=200&section=header&text=Michele%20Francisca%20de%20Almeida&fontSize=38&fontColor=fffeee"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A6F,100:2563EB&height=200&section=header&text=Michele%20Francisca%20de%20Almeida&fontSize=38&fontColor=fffeee"/>
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓_Ciência_da_Computação-PUC_Minas-1E3A5F?style=flat-square&labelColor=1E3A4F&color=2563EB"/>
+  <img src="https://img.shields.io/badge/🎓_Ciência_da_Computação-PUC_Minas-1E3A5F?style=flat-square&labelColor=1E3A6F&color=2563EB"/>
   <img src="https://img.shields.io/badge/📍-Brasil-1E3A5F?style=flat-square&labelColor=1E3A5F&color=2563EB"/>
 </p>
 <p align="center">
