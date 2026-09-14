@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D174D,100:EC4899&height=200&section=header&text=Michele%20Francisca%20de%20Almeida&fontSize=38&fontColor=fffeee"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D174D,100:EC4899&height=200&section=header&text=Michele%20Francisca%20de%20Almeida&fontSize=38&fontColor=ffffff"/>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=EC4899&size=28&center=true&vCenter=true&width=600&lines=👩‍💻+Desenvolvedora+Front-end+em+formação;🚀+Full+Stack+em+evolução;💡+Construindo+minha+carreira+em+tecnologia" />
