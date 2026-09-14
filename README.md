@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓_Ciência_da_Computação-PUC_Minas-1E3A5F?style=flat-square&labelColor=1E3A5F&color=2563EB"/>
-  <img src="https://img.shields.io/badge/📍-Brasil-1E3A5F?style=flat-square&labelColor=1E3A5F&color=2563EB"/>
+  🎓 <strong>Ciência da Computação</strong> — PUC Minas &nbsp;•&nbsp; 📍 Brasil
 </p>
 
 ---
