@@ -1,21 +1,21 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D174D,100:EC4899&height=200&section=header&text=Michele%20Francisca%20de%20Almeida&fontSize=38&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:EC4899&height=200&section=header&text=Michele%20Francisca%20de%20Almeida&fontSize=38&fontColor=ffffff"/>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=EC4899&size=28&center=true&vCenter=true&width=600&lines=👩‍💻+Desenvolvedora+Front-end+em+formação;🚀+Full+Stack+em+evolução;💡+Construindo+minha+carreira+em+tecnologia" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓_Ciência_da_Computação-PUC_Minas-9D174D?style=flat-square&labelColor=9D174D&color=EC4899"/>
-  <img src="https://img.shields.io/badge/📍-Brasil-9D174D?style=flat-square&labelColor=9D174D&color=EC4899"/>
+  <img src="https://img.shields.io/badge/🎓_Ciência_da_Computação-PUC_Minas-000000?style=flat-square&labelColor=000000&color=EC4899"/>
+  <img src="https://img.shields.io/badge/📍-Brasil-000000?style=flat-square&labelColor=000000&color=EC4899"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-1E3A5F?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1E3A5F?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-1E3A5F?style=flat-square&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-1E3A5F?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-1E3A5F?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-1E3A5F?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-1E3A5F?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=EC4899"/>
+  <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=EC4899"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=EC4899"/>
+  <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=EC4899"/>
+  <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=EC4899"/>
+  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=EC4899"/>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=EC4899"/>
 </p>
 
 ---
