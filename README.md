@@ -1,12 +1,21 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B1A4A&height=200&section=header&text=Michele%20Francisca%20de%20Almeida&fontSize=38&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF006E&height=200&section=header&text=Michele%20Francisca%20de%20Almeida&fontSize=38&fontColor=ffffff"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=8B1A4A&size=28&center=true&vCenter=true&width=600&lines=👩‍💻+Desenvolvedora+Front-end+em+formação;🚀+Full+Stack+em+evolução;💡+Construindo+minha+carreira+em+tecnologia" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF006E&size=28&center=true&vCenter=true&width=600&lines=👩‍💻+Desenvolvedora+Front-end+em+formação;🚀+Full+Stack+em+evolução;💡+Construindo+minha+carreira+em+tecnologia" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓_Ciência_da_Computação-PUC_Minas-8B1A4A?style=flat-square&labelColor=8B1A4A&color=000000"/>
-  <img src="https://img.shields.io/badge/📍-Brasil-8B1A4A?style=flat-square&labelColor=8B1A4A&color=000000"/>
+  <img src="https://img.shields.io/badge/🎓_Ciência_da_Computação-PUC_Minas-FF006E?style=flat-square&labelColor=FF006E&color=000000"/>
+  <img src="https://img.shields.io/badge/📍-Brasil-FF006E?style=flat-square&labelColor=FF006E&color=000000"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=FF006E"/>
+  <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=FF006E"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=FF006E"/>
+  <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=FF006E"/>
+  <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=FF006E"/>
+  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=FF006E"/>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=FF006E"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=EC4899"/>
