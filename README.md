@@ -118,7 +118,7 @@ Projeto em equipe (Trabalho Interdisciplinar II), com foco em back-end. Ainda na
 
 ## 🎯 Foco Atual
 - 🚀 **AEDS 2 & Java:** Desenvolvendo [Quiz-Java](https://github.com/MicheleFranciscaDeAlmeida/quiz-java) no terminal/Linux.
-- 🔗 **TI II: Back-End:** Explorando integração entre disciplinas e fundamentos de desenvolvimento web.
+- 🔗 **TI II: Back-End:** Desenvolvendo o ALUMINÁ, projeto de plataforma de estudos para o ENEM, em equipe.
 - 💻 **Arquitetura de Computadores I:** Entendendo hardware, binário e lógica digital.
 - 🏗️ **Engenharia de Software I:** Aprendendo ciclos de vida, requisitos e organização de projetos.
 - 📐 **Cálculo I:** Consolidando limites algébricos e modelagem de funções (Formulário pronto!).
