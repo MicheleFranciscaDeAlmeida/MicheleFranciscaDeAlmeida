@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=DB2777&height=200&section=header&text=Michele%20Francisca%20de%20Almeida&fontSize=38&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B1A4A&height=200&section=header&text=Michele%20Francisca%20de%20Almeida&fontSize=38&fontColor=ffffff"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=DB2777&size=28&center=true&vCenter=true&width=600&lines=👩‍💻+Desenvolvedora+Front-end+em+formação;🚀+Full+Stack+em+evolução;💡+Construindo+minha+carreira+em+tecnologia" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8B1A4A&size=28&center=true&vCenter=true&width=600&lines=👩‍💻+Desenvolvedora+Front-end+em+formação;🚀+Full+Stack+em+evolução;💡+Construindo+minha+carreira+em+tecnologia" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓_Ciência_da_Computação-PUC_Minas-DB2777?style=flat-square&labelColor=DB2777&color=000000"/>
-  <img src="https://img.shields.io/badge/📍-Brasil-DB2777?style=flat-square&labelColor=DB2777&color=000000"/>
+  <img src="https://img.shields.io/badge/🎓_Ciência_da_Computação-PUC_Minas-8B1A4A?style=flat-square&labelColor=8B1A4A&color=000000"/>
+  <img src="https://img.shields.io/badge/📍-Brasil-8B1A4A?style=flat-square&labelColor=8B1A4A&color=000000"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=EC4899"/>
