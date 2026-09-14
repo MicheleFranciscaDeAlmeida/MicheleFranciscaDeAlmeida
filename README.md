@@ -15,16 +15,17 @@
 ---
 
 ## ✨ Sobre mim
+Sou estudante de Ciência da Computação, com uma base sólida em desenvolvimento front-end — HTML, CSS, JavaScript e Bootstrap — criando interfaces modernas, 
+funcionais e responsivas.
 
-Sou estudante de Ciência da Computação com foco em desenvolvimento front-end, criando interfaces modernas, funcionais e responsivas.
+Possuo também uma base sólida em lógica de programação com C, C++ e Java, o que contribui para o desenvolvimento de soluções mais estruturadas e eficientes.
 
-Possuo sólida base em lógica de programação com C, C++ e Java, o que contribui para o desenvolvimento de soluções mais estruturadas e eficientes.
+Atualmente, estou expandindo minha atuação para o back-end: aprofundando conhecimentos em Node.js e APIs REST, e colocando isso em prática em um projeto 
+acadêmico em equipe (ALUMINÁ), ainda na fase inicial de especificação.
 
-🎯 Buscando oportunidade de estágio para evoluir como desenvolvedora e atuar em projetos reais.
+🎯 Buscando oportunidade de estágio para evoluir como desenvolvedora full stack e atuar em projetos reais.
 
 Tenho experiência prática em projetos acadêmicos e pessoais, com foco em usabilidade, organização de código e boas práticas de desenvolvimento.
-
-Atualmente, estou aprofundando conhecimentos em integração entre front-end e back-end.
 
 ---
 
@@ -49,6 +50,13 @@ Projeto com foco em UI/UX e experiência do usuário, aplicando conceitos de des
 Meu primeiro projeto em Java: um quiz interativo desenvolvido pelo terminal.
 
 🔗 https://github.com/MicheleFranciscaDeAlmeida/quiz-java
+
+---
+
+## 🔨 Em Desenvolvimento
+
+🔶 **ALUMINÁ — Plataforma de Estudos para o ENEM (Back-end)**
+Projeto em equipe (Trabalho Interdisciplinar II), com foco em back-end. Ainda na fase de especificação — meus primeiros passos práticos fora do front-end.
 
 ---
 
@@ -146,8 +154,7 @@ Meu primeiro projeto em Java: um quiz interativo desenvolvido pelo terminal.
 
 ## 🎯 Objetivo
 
-Atuar como estagiária em desenvolvimento de software, aplicando meus conhecimentos e evoluindo continuamente na área de tecnologia, com foco em desenvolvimento full stack.
-
+Evoluir como desenvolvedora full stack, unindo minha base em front-end com o back-end que estou construindo agora, em busca de uma oportunidade de estágio para aplicar tudo isso em projetos reais.
 ---
 
 ## 📫 Contato
