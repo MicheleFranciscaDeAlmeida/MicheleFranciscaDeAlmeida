@@ -17,15 +17,6 @@
   <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=FF006E"/>
   <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=FF006E"/>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=EC4899"/>
-  <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=EC4899"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=EC4899"/>
-  <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=EC4899"/>
-  <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=EC4899"/>
-  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=EC4899"/>
-  <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=EC4899"/>
-</p>
 
 ---
 
